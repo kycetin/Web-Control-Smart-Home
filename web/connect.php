@@ -2,7 +2,7 @@
     $username="username";
     $password="password";
     $sunucu="localhost";
-    $database="database_name";
+    $database=database name";
     
     $baglan=mysql_connect($sunucu,$username,$password);
     mysql_query("SET NAMES UTF8");

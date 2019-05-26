@@ -1,1 +1,1 @@
-{"window":"1","door":null,"fan":null,"bulb":null}
+{"window":null,"door":null,"fan":"0","bulb":null}
