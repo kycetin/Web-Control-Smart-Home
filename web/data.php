@@ -1,0 +1,1 @@
+{"window":"1","door":null,"fan":null,"bulb":null}
